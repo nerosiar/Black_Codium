@@ -18,3 +18,5 @@ Make sure <code>"editor.semanticHighlighting.enabled": false </code>
 #### Do you like it !?
 
 Any suggestions OR report issue on <a href="https://github.com/nerosiar/Black_Codium">GitHub</a>
+
+This Repo is just a vscodium configuration file uploaded on https://open-vsx.org/
